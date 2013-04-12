@@ -22,3 +22,7 @@
 	path = .dotfiles/external/dircolors-solarized
 	url = git://github.com/seebi/dircolors-solarized.git
 	branch = master
+[submodule ".dotfiles/xmonad"]
+	path = .dotfiles/xmonad
+	url = git@github.com:dholm/dotxmonad.git
+	branch = master
