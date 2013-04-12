@@ -1,0 +1,24 @@
+[submodule ".dotfiles/vim"]
+	path = .dotfiles/vim
+	url = git@github.com:dholm/dotvim.git
+	branch = master
+[submodule ".dotfiles/emacs"]
+	path = .dotfiles/emacs
+	url = git@github.com:dholm/dotemacs.git
+	branch = master
+[submodule ".dotfiles/tmux"]
+	path = .dotfiles/tmux
+	url = git@github.com:dholm/dottmux.git
+	branch = master
+[submodule ".dotfiles/bash"]
+	path = .dotfiles/bash
+	url = git@github.com:dholm/dotbash.git
+	branch = master
+[submodule ".dotfiles/zsh"]
+	path = .dotfiles/zsh
+	url = git@github.com:dholm/dotzsh.git
+	branch = master
+[submodule ".dotfiles/external/dircolors-solarized"]
+	path = .dotfiles/external/dircolors-solarized
+	url = git://github.com/seebi/dircolors-solarized.git
+	branch = master

@@ -1,0 +1,13 @@
+# A wrapper for sourcing csh-files from Bash/ZSH.
+# Usage: source /path/to/sourcecsh /path/to/script.csh
+
+while read cmd var val
+do
+    if [[ $cmd == "setenv" ]]
+    then
+        declare -x "$var=$val"
+    elif [[ $cmd == "alias" ]]
+    then
+        alias $var="$val"
+    fi
+done < "${1}"

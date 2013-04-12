@@ -1,0 +1,23 @@
+.*.local
+.*_history
+.cache
+.config
+.dotfiles.git
+
+Desktop
+Documents
+Downloads
+Pictures
+Projects
+
+# Bash
+
+# Emacs
+.emacs.cache
+
+# vim
+.viminfo
+
+# zsh
+.zsh-update
+.zcompdump
