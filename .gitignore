@@ -1,14 +1,19 @@
 .*.local
-.*_history
+.*history
 .cache
 .config
 .dotfiles.git
 
+Applications
 Desktop
 Documents
 Downloads
+Library
+Movies
+Music
 Pictures
 Projects
+Public
 
 # Bash
 
