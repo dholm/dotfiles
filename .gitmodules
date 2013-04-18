@@ -26,3 +26,7 @@
 	path = .dotfiles/xmonad
 	url = git@github.com:dholm/dotxmonad.git
 	branch = master
+[submodule ".dotfiles/taffybar"]
+	path = .dotfiles/taffybar
+	url = git@github.com:dholm/dottaffybar.git
+	branch = master

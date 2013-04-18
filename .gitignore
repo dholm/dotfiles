@@ -1,9 +1,4 @@
-.*.local
-.*history
-.cache
-.config
-.dotfiles.git
-
+# Common home folders
 Applications
 Desktop
 Documents
@@ -24,5 +19,39 @@ Public
 .viminfo
 
 # zsh
+.fasd
 .zsh-update
 .zcompdump
+
+# Misc
+.*.local
+.*history
+.ICEauthority
+.Xauthority
+.Xresources
+.bazaar
+.cabal
+.cache
+.cups
+.dbus
+.dia
+.dirs
+.dmrc
+.dotfiles.git
+.font*
+.gconf
+.gitconfig
+.gnome*
+.java
+.less*
+.nv*
+.pip
+.pulse*
+.purple
+.qt*
+.subversion
+.synaptic
+.thumbnails
+.thunderbird
+.wire*
+.xsession*
