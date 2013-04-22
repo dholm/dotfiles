@@ -1,3 +1,6 @@
+# dotfiles repository
+.dotfiles.git
+
 # Common home folders
 Applications
 Desktop
@@ -10,48 +13,100 @@ Pictures
 Projects
 Public
 
-# Bash
-
-# Emacs
-.emacs.cache
-
-# vim
-.viminfo
-
-# zsh
-.fasd
-.zsh-update
-.zcompdump
-
-# Misc
-.*.local
-.*history
+# Secrets
 .ICEauthority
 .Xauthority
-.Xresources
-.bazaar
+.amazon-product-api
+.gnome2_private
+.gnupg
+.gpg
+.iid
+.keychain
+.lastpass
+.pki
+.pypirc
+.vas_*
+
+# Local data store
 .cabal
+.cpan
+.fonts
+.gem
+.ghc
+.icons
+.mozilla
+.npm
+.nx
+.pulse
+.purple
+.subversion
+.task
+.thunderbird
+.wine
+
+# Logs, caches and local files
+*.local
+*.log
+*history
+.bower
 .cache
-.cups
 .dbus
+.debug
+.emacs.cache
+.fasd
+.goutputstream-*
+.gstreamer-0.10
+.gtk-bookmarks
+.ivy2
+.java
+.lesshst
+.links
+.macromedia
+.matplotlib
+.nv
+.pip
+.pulse-cookie
+.sbt
+.themes
+.thumbnails
+.viminfo
+.wireshark
+.xsession-*
+.zcompdump
+.zoom
+.zsh-update
+
+# Untracked configurations
+.ICAClient
+.KernelAnalyzerConfig
+.Xresources
+.adobe
+.amd
+.android
+.bazaar
+.config
+!.config/taffybar
+.cups
+.darcs
 .dia
 .dirs
 .dmrc
-.dotfiles.git
-.font*
+.fontconfig
+.fonts.conf
+.fonts.d
 .gconf
 .gitconfig
-.gnome*
-.java
-.less*
-.nv*
-.pip
-.pulse*
-.purple
-.qt*
-.subversion
+.gitk
+.gnome2
+.gtkrc-2.0
+.intel
+.lftp
+.libreoffice
+.my.cnf
+.nvidia-settings-rc
+.qt
 .synaptic
-.thumbnails
-.thunderbird
-.wire*
-.xsession*
+.taskrc
+.xinitrc
+.xsession
+.xxxterm
