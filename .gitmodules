@@ -30,3 +30,7 @@
 	path = .dotfiles/taffybar
 	url = git@github.com:dholm/dottaffybar.git
 	branch = master
+[submodule ".dotfiles/misc"]
+	path = .dotfiles/misc
+	url = git@github.com:dholm/dotmisc.git
+	branch = master

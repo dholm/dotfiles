@@ -48,6 +48,7 @@ Public
 *.local
 *.log
 *history
+.DS_Store
 .bower
 .cache
 .dbus
@@ -66,9 +67,11 @@ Public
 .nv
 .pip
 .pulse-cookie
+.pylint.d
 .sbt
 .themes
 .thumbnails
+.vim.cache
 .viminfo
 .wireshark
 .xsession-*
@@ -95,7 +98,6 @@ Public
 .fonts.conf
 .fonts.d
 .gconf
-.gitconfig
 .gitk
 .gnome2
 .gtkrc-2.0
