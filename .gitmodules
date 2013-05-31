@@ -34,3 +34,7 @@
 	path = .dotfiles/misc
 	url = git@github.com:dholm/dotmisc.git
 	branch = master
+[submodule ".dotfiles/external/powerline"]
+	path = .dotfiles/external/powerline
+	url = git://github.com/Lokaltog/powerline.git
+	branch = develop

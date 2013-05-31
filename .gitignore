@@ -31,6 +31,7 @@ Public
 .cabal
 .cpan
 .fonts
+!.fonts/PowerlineSymbols.otf
 .gem
 .ghc
 .icons
@@ -88,6 +89,7 @@ Public
 .android
 .bazaar
 .config
+!.config/fontconfig
 !.config/taffybar
 .cups
 .darcs
