@@ -38,3 +38,7 @@
 	path = .dotfiles/external/powerline
 	url = git://github.com/Lokaltog/powerline.git
 	branch = develop
+[submodule ".dotfiles/external/liquidprompt"]
+	path = .dotfiles/external/liquidprompt
+	url = git://github.com/nojhan/liquidprompt.git
+	branch = master

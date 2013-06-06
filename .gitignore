@@ -91,6 +91,7 @@ Public
 .config
 !.config/fontconfig
 !.config/taffybar
+!.config/liquidpromptrc
 .cups
 .darcs
 .dia
