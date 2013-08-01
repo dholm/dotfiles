@@ -42,3 +42,7 @@
 	path = .dotfiles/external/liquidprompt
 	url = git://github.com/nojhan/liquidprompt.git
 	branch = master
+[submodule ".dotfiles/external/fontconfig-ultimate"]
+	path = .dotfiles/external/fontconfig-ultimate
+	url = git://github.com/bohoomil/fontconfig-ultimate.git
+	branch = master
