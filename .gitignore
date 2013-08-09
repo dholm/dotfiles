@@ -17,6 +17,7 @@ Public
 .ICEauthority
 .Xauthority
 .amazon-product-api
+.cvspass
 .gnome2_private
 .gnupg
 .gpg
@@ -25,6 +26,7 @@ Public
 .lastpass
 .pki
 .pypirc
+.ssh
 .vas_*
 
 # Local data store
@@ -79,6 +81,13 @@ Public
 .zcompdump
 .zoom
 .zsh-update
+
+# Binaries
+bin
+!bin/brightness
+!bin/sourcecsh
+!bin/vimcat
+!bin/vimpager
 
 # Untracked configurations
 .ICAClient
