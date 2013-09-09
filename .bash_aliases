@@ -1,1 +1,1 @@
-.dotfiles/bash/.bash_aliases
+.dotfiles/shell/.bash_aliases

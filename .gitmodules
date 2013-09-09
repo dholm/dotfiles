@@ -1,3 +1,7 @@
+[submodule ".dotfiles/shell"]
+	path = .dotfiles/shell
+	url = git@github.com:dholm/dotshell.git
+	branch = master
 [submodule ".dotfiles/vim"]
 	path = .dotfiles/vim
 	url = git@github.com:dholm/dotvim.git
@@ -9,14 +13,6 @@
 [submodule ".dotfiles/tmux"]
 	path = .dotfiles/tmux
 	url = git@github.com:dholm/dottmux.git
-	branch = master
-[submodule ".dotfiles/bash"]
-	path = .dotfiles/bash
-	url = git@github.com:dholm/dotbash.git
-	branch = master
-[submodule ".dotfiles/zsh"]
-	path = .dotfiles/zsh
-	url = git@github.com:dholm/dotzsh.git
 	branch = master
 [submodule ".dotfiles/external/dircolors-solarized"]
 	path = .dotfiles/external/dircolors-solarized
