@@ -1,1 +1,0 @@
-.dotfiles/shell/.bash_aliases
