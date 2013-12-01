@@ -27,6 +27,8 @@
 /.pki
 /.pypirc
 /.ssh
+!/.ssh/conf
+!/.ssh/sh
 /.vas_*
 
 # Local data store
