@@ -14,10 +14,6 @@
 	path = .dotfiles/tmux
 	url = git@github.com:dholm/dottmux.git
 	branch = master
-[submodule ".dotfiles/external/dircolors-solarized"]
-	path = .dotfiles/external/dircolors-solarized
-	url = git://github.com/seebi/dircolors-solarized.git
-	branch = master
 [submodule ".dotfiles/xmonad"]
 	path = .dotfiles/xmonad
 	url = git@github.com:dholm/dotxmonad.git
@@ -30,10 +26,10 @@
 	path = .dotfiles/misc
 	url = git@github.com:dholm/dotmisc.git
 	branch = master
-[submodule ".dotfiles/external/powerline"]
-	path = .dotfiles/external/powerline
-	url = git://github.com/Lokaltog/powerline.git
-	branch = develop
+[submodule ".dotfiles/external/dircolors-solarized"]
+	path = .dotfiles/external/dircolors-solarized
+	url = git://github.com/seebi/dircolors-solarized.git
+	branch = master
 [submodule ".dotfiles/external/liquidprompt"]
 	path = .dotfiles/external/liquidprompt
 	url = git://github.com/nojhan/liquidprompt.git
