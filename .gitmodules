@@ -1,30 +1,30 @@
 [submodule ".dotfiles/shell"]
 	path = .dotfiles/shell
-	url = git@github.com:dholm/dotshell.git
+	url = https://github.com/dholm/dotshell.git
 	branch = master
 [submodule ".dotfiles/vim"]
 	path = .dotfiles/vim
-	url = git@github.com:dholm/dotvim.git
+	url = https://github.com/dholm/dotvim.git
 	branch = master
 [submodule ".dotfiles/emacs"]
 	path = .dotfiles/emacs
-	url = git@github.com:dholm/dotemacs.git
+	url = https://github.com/dholm/dotemacs.git
 	branch = master
 [submodule ".dotfiles/tmux"]
 	path = .dotfiles/tmux
-	url = git@github.com:dholm/dottmux.git
+	url = https://github.com/dholm/dottmux.git
 	branch = master
 [submodule ".dotfiles/xmonad"]
 	path = .dotfiles/xmonad
-	url = git@github.com:dholm/dotxmonad.git
+	url = https://github.com/dholm/dotxmonad.git
 	branch = master
 [submodule ".dotfiles/taffybar"]
 	path = .dotfiles/taffybar
-	url = git@github.com:dholm/dottaffybar.git
+	url = https://github.com/dholm/dottaffybar.git
 	branch = master
 [submodule ".dotfiles/misc"]
 	path = .dotfiles/misc
-	url = git@github.com:dholm/dotmisc.git
+	url = https://github.com/dholm/dotmisc.git
 	branch = master
 [submodule ".dotfiles/external/dircolors-solarized"]
 	path = .dotfiles/external/dircolors-solarized

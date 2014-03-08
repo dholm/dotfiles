@@ -17,7 +17,7 @@ mkdir "$HOME/.dotfiles.git"
 dotfiles init
 
 echo -e " * ${GREEN}Fetching root repository..${NORMAL}"
-dotfiles remote add origin git@github.com:dholm/dotfiles.git
+dotfiles remote add origin https://github.com/dholm/dotfiles.git
 dotfiles config branch.master.remote origin
 dotfiles config branch.master.merge refs/heads/master
 dotfiles fetch
