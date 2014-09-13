@@ -38,3 +38,7 @@
 	path = .dotfiles/external/fontconfig-ultimate
 	url = https://github.com/bohoomil/fontconfig-ultimate.git
 	branch = master
+[submodule ".dotfiles/external/pip-app"]
+	path = .dotfiles/external/pip-app
+	url = https://github.com/sharat87/pip-app.git
+	branch = master
